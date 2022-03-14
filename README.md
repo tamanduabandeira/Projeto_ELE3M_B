@@ -7,3 +7,7 @@
 * Matheus Miranda Carlos
 * Rian Mendes Lopes
 * Leandro Leal Rodrigues
+
+## Introdução
+
+Este projeto tem por finalidade trabalhar as competências adquiridas nas disciplinas de sistemas eletrônicos analógicos e digitais ... 
